@@ -57,11 +57,11 @@ http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVir
 https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.215T%3EA
 http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18575418%2D18575428&hgsid=676703543_MlClAYaXBD4EceXA0PA4sVXV1rhu
 ### Q12
-Le gène se trouve sur le brin anti-sens 
+Le gène se trouve sur le brin anti-sens. 
 - Source : Ensembl 
 http://www.ensembl.org/Mus_musculus_CAST_EiJ/Transcript/Summary?g=MGP_CASTEiJ_G0035192;r=X:138110860-138278974;t=MGP_CASTEiJ_T0098128
 ### Q13
-Le transcrit NM_003159.2 contient 21 exons
+Le transcrit NM_003159.2 contient 21 exons.
 - Source : UCSC
 http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18575418%2D18575428&hgsid=676703543_MlClAYaXBD4EceXA0PA4sVXV1rhu
 ### Q14 
