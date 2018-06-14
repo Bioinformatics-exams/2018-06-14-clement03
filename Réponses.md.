@@ -1,0 +1,14 @@
+# UE génétique médicale examen 2018-06-14
+Clément COLLIGNON
+https://frama.link/clementcollignon2018
+## Exercice 1
+### Q1
+Les 3 principaux gènes associés au syndrome de Rett sont : *MECP2*, *FOXG1*, 
+Sources OMIM : 
+https://www.omim.org/entry/613454?search=%20syndrome%20de%20Rett&highlight=syndromic%20de%20syndrome%20rett
+https://www.omim.org/entry/312750?search=%20syndrome%20de%20Rett&highlight=syndromic%20de%20syndrome%20rett
+### Q2 
+Ces variants se trouvent sur le gène *CDKL5* 
+UCSC Genome Browser
+http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18593533%2D18593553&hgsid=676700663_a6ApSMFjpqQiclEyLV6IZ0IoGnfa
+http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18593512%2D18593532&hgsid=676700811_WN2J6Ih21PnwLOLjzPO4uUfRg0JX
