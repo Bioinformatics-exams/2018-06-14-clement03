@@ -33,13 +33,13 @@ La notation protéique de ces variants au format HGVS est :
 https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.194G%3EA
 https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.215T%3EA
 ### Q8 
-NM : mRNA 
-003159 : numéro du transcrit 
-2 : version du transcrit 
-(CDKL58_i001) : nom du gène et numéro d'isoforme 
-p : notation protéique 
-(Arg65Gln) : Substitution d'une Arginine en Glutamine en position 65
-(Ile72Asn) : Substitution d'une Isoleucine en Asparagine en position 72
+NM : mRNA, 
+003159 : numéro du transcrit, 
+2 : version du transcrit, 
+(CDKL58_i001) : nom du gène et numéro d'isoforme, 
+p : notation protéique, 
+(Arg65Gln) : Substitution d'une Arginine en Glutamine en position 65,
+(Ile72Asn) : Substitution d'une Isoleucine en Asparagine en position 72,
 - Source : Cours sur l'analyse de données
 ### Q9 
 La conséquence des deux variants est une mutation faux-sens respective pour chaque variant dans la protéine
