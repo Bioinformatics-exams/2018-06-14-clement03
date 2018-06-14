@@ -3,10 +3,11 @@ Clément COLLIGNON
 https://frama.link/clementcollignon2018
 ## Exercice 1
 ### Q1
-Les 3 principaux gènes associés au syndrome de Rett sont : *MECP2*, *FOXG1*, 
+Les 3 principaux gènes associés au syndrome de Rett sont : *MECP2*, *FOXG1* et *CDKL5*
 Sources OMIM : 
 https://www.omim.org/entry/613454?search=%20syndrome%20de%20Rett&highlight=syndromic%20de%20syndrome%20rett
 https://www.omim.org/entry/312750?search=%20syndrome%20de%20Rett&highlight=syndromic%20de%20syndrome%20rett
+http://mecp2.chw.edu.au/
 ### Q2 
 Ces variants se trouvent sur le gène *CDKL5* 
 source : UCSC Genome Browser
@@ -45,3 +46,22 @@ La conséquence des deux variants est une mutation faux-sens respective pour cha
 Source : Mutalyzer
 https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.215T%3EA
 https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.194G%3EA
+### Q10 
+Le variant n°2 : NM_003159.2:c.215T>A explique le syndrome de Rett de la patiente car il est classé comme variant pathologique, alors que le variant n°1 est classé comme varaint bénin. 
+Source : Rettbase
+http://mecp2.chw.edu.au/cdkl5/cdkl5_variant_copy.php?mut_id=46
+http://mecp2.chw.edu.au/cdkl5/cdkl5_variant_copy.php?mut_id=20
+### Q11
+http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18575418%2D18575428&hgsid=676703543_MlClAYaXBD4EceXA0PA4sVXV1rhu
+Sources : Mutalyzer Name Checker puis UCSC
+https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.215T%3EA
+http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18575418%2D18575428&hgsid=676703543_MlClAYaXBD4EceXA0PA4sVXV1rhu
+### Q12
+### Q13
+Le transcrit NM_003159.2 contient 21 exons
+Source : UCSC
+http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18575418%2D18575428&hgsid=676703543_MlClAYaXBD4EceXA0PA4sVXV1rhu
+### Q14 
+Le variant se trouve dans l'exon 5.
+Source : UCSC
+http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18575418%2D18575428&hgsid=676703543_MlClAYaXBD4EceXA0PA4sVXV1rhu
